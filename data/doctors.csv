@@ -1,0 +1,51 @@
+doctor_id,full_name,specialty,department_id,hire_date
+1,Catherine-Suzanne Chevalier,Emergency,4,2011-06-19
+2,Catherine Gros,Orthopedics,6,2021-01-22
+3,Valentine Bazin,Cardiology,1,2017-07-26
+4,Philippine Renaud,Dermatology,8,2014-11-26
+5,Philippine Lecoq,Emergency,5,2024-05-12
+6,Amelie-Josephine Marion,Cardiology,2,2015-08-21
+7,Margot Charles,Gynecology,3,2023-12-17
+8,Marguerite-Astrid Mallet,Dermatology,6,2013-07-23
+9,Gilbert Bailly,Gynecology,6,2018-08-12
+10,Valerie Wagner-Ollivier,Cardiology,7,2014-11-25
+11,Zoe-Paulette Antoine,Cardiology,4,2012-12-07
+12,Matthieu Hernandez-Salmon,Oncology,5,2020-10-23
+13,Luce Hubert,Neurology,7,2012-09-28
+14,Sophie-Celina Le Roux,Emergency,5,2021-04-10
+15,Aimee Girard,Neurology,3,2013-07-01
+16,William Buisson,Neurology,7,2011-07-18
+17,Chantal Becker,Oncology,6,2014-05-12
+18,Adelaide Lagarde,Oncology,3,2017-04-29
+19,Anastasie Torres,Orthopedics,7,2017-05-02
+20,Bertrand Klein,Cardiology,1,2022-05-08
+21,Adele Bernard-Gomes,Cardiology,3,2023-01-21
+22,Philippine Rodriguez,Oncology,8,2016-01-15
+23,Julie-Aimee Fabre,Emergency,3,2019-01-03
+24,Audrey-Noemi Berger,Pediatrics,6,2023-05-21
+25,Benjamin Bernard-Charles,Oncology,3,2012-06-12
+26,Thierry Barbier,Gynecology,5,2022-04-25
+27,David-Philippe Payet,Oncology,8,2013-08-08
+28,Sylvie Meunier,Dermatology,8,2022-10-19
+29,Susanne Bouvet,Cardiology,6,2018-11-17
+30,Elodie-Manon Bodin,Oncology,2,2017-10-08
+31,Suzanne Monnier du Peltier,Gynecology,5,2013-03-10
+32,Louise Petit,Cardiology,8,2023-06-06
+33,Edouard Baron,Dermatology,4,2014-01-23
+34,Maggie Laporte,Cardiology,8,2015-11-08
+35,Pierre Dubois,Pediatrics,7,2020-05-04
+36,Luc Guillaume-Lucas,Pediatrics,4,2015-05-18
+37,Theodore Coste,Cardiology,2,2011-12-15
+38,Isaac Besson-Guibert,Orthopedics,1,2019-03-23
+39,Jean Leclerc,Emergency,6,2022-07-26
+40,Raymond Joubert de la Ledoux,Gynecology,3,2024-04-01
+41,Rene-Andre Francois,Gynecology,4,2014-12-22
+42,David Perrot-Colin,Gynecology,8,2019-07-21
+43,Josette Perrin,Cardiology,3,2022-09-27
+44,Gilbert Regnier de la Imbert,Orthopedics,6,2023-09-18
+45,Zoe-Nathalie Muller,Emergency,7,2016-08-25
+46,Valerie Poirier,Oncology,3,2011-10-13
+47,Lorraine de la Hernandez,Emergency,6,2024-09-21
+48,Eugene de Royer,Oncology,5,2019-01-07
+49,Georges Riviere,Emergency,4,2011-08-05
+50,Marine Gimenez-Chauveau,Orthopedics,5,2013-11-27

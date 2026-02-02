@@ -1,0 +1,1001 @@
+patient_id,first_name,last_name,gender,birth_date,city,insurance_type,registration_date
+1,Richard,Blot,M,2004-12-02,Boutin-sur-Lacroix,Public,2025-08-27
+2,Guillaume,Bertin,F,1950-12-01,Lebrun-sur-Le Gall,Public,2023-05-11
+3,Laetitia,Vidal,M,2023-03-23,Weber,Public,2022-09-04
+4,Paul,Gilles,M,2010-08-01,Duhamel,None,2024-04-04
+5,Anne,Pichon,M,1981-03-04,Jacquesdan,None,2021-03-24
+6,Roland,Ferreira,F,2001-02-12,Morel-sur-Mer,Public,2022-04-29
+7,Tristan,Perrin,M,1943-04-16,Allain,Public,2024-01-04
+8,Thibaut,Deschamps,M,1958-05-27,Collin-sur-Pages,Public,2021-04-22
+9,Claire,Mallet,M,2021-09-25,Lefebvre,None,2025-05-26
+10,Paulette,Goncalves,M,2010-03-25,Pichon-sur-Petitjean,None,2021-12-28
+11,Clemence,Couturier,F,1981-11-24,Cohen,Public,2022-05-14
+12,Ines,Besnard,F,1939-01-14,Bonneau,None,2021-10-07
+13,Charles,Rolland,F,2010-01-30,Muller-la-Foret,Public,2022-05-28
+14,Nathalie,Fabre,M,2003-01-13,Lelievre,None,2022-07-26
+15,Agnes,Martin,F,1997-08-02,Barthelemynec,Private,2023-04-06
+16,Jean,Boyer,F,1944-03-18,Bernard,Public,2021-03-02
+17,Edith,Delattre,M,1936-02-22,Barbe,Private,2024-10-07
+18,Pauline,Fontaine,M,1978-02-17,Coulon,Public,2021-09-08
+19,Nath,Torres,F,1955-01-01,Julien,Public,2024-10-07
+20,Marguerite,Diallo,F,2013-12-17,Saint Victoiredan,Private,2024-09-06
+21,Michelle,Pages,F,2009-01-27,Mahe-les-Bains,Public,2023-01-21
+22,Camille,Delorme,F,1991-08-14,Pinto,None,2025-08-31
+23,Zacharie,Philippe,M,1992-10-06,Maillot,Private,2022-10-18
+24,Isaac,Guillon,M,1973-10-27,Dumas-sur-Seguin,None,2025-05-27
+25,Gilbert,Hebert,F,2005-01-18,Sainte Dorothee,None,2022-06-13
+26,Augustin,Riviere,F,1937-04-14,Denis-sur-Gomes,None,2022-02-24
+27,Nicolas,Gaillard,M,1941-09-04,Reynaud,None,2021-05-09
+28,Susanne,Julien,M,1980-12-26,Nicolas,Public,2022-12-01
+29,Alphonse,Leduc,M,2021-10-07,Roy,Private,2023-04-27
+30,Franck,Richard,M,1952-04-18,Saint Louis-la-Foret,Public,2022-01-18
+31,Richard,Pottier,M,2007-07-21,Sainte OlivierVille,Private,2022-06-25
+32,Francoise,Garcia,F,1936-11-20,Ruiz-sur-Cohen,Private,2021-03-07
+33,Jacqueline,Lesage,F,1986-08-10,Noel,Public,2024-12-18
+34,Guillaume,Leduc,F,1972-04-27,Gomes-sur-Buisson,Private,2023-11-21
+35,Andree,Mace,M,1989-01-05,Faure,None,2025-08-08
+36,Andree,Hebert,F,1937-11-30,Sainte Guy,None,2021-03-02
+37,Remy,Berger,M,2015-07-22,Bouvier,None,2025-02-14
+38,Daniel,Ribeiro,M,1947-05-24,Sainte ClaireVille,None,2024-09-04
+39,Hortense,Cordier,M,1983-11-11,BaudryVille,Public,2026-01-30
+40,Denis,Barthelemy,F,1979-09-10,Pasquier-la-Foret,Private,2024-08-20
+41,Zoe,Guyot,F,1939-09-06,Benoitdan,None,2023-01-01
+42,Claire,Henry,M,1999-06-22,Millet,None,2025-08-06
+43,Victor,Gomez,F,1967-05-20,Briand-sur-Mary,Public,2021-03-02
+44,Zacharie,Julien,M,1949-01-27,Sainte Elisenec,Public,2023-03-25
+45,Noel,Albert,F,2004-12-01,Evrard,Private,2025-01-20
+46,Veronique,Lombard,F,1992-01-02,Marion-sur-Huet,Public,2024-08-17
+47,Bernard,Etienne,M,1983-06-23,FournierBourg,None,2022-06-22
+48,Monique,Besson,F,1979-01-14,Sainte Gilles-sur-Mer,Public,2022-11-26
+49,Adele,Roche,F,1952-09-29,Chauvin-sur-Lagarde,Private,2025-10-22
+50,Louis,Martineau,F,1999-03-15,Saint Sebastiendan,Public,2024-05-07
+51,Emilie,Marchal,F,2010-03-31,Blanchet-la-Foret,Public,2024-03-26
+52,Martin,Marchand,M,1974-08-18,Bertrandboeuf,None,2024-07-02
+53,Alix,Riviere,F,1940-01-25,Bruneau,None,2021-10-27
+54,Arnaude,Langlois,F,1969-01-13,Schmitt,None,2022-08-12
+55,Adelaide,Lamy,F,1979-07-19,Sainte Colettenec,Private,2024-08-09
+56,Josette,Lejeune,M,1971-07-21,David-les-Bains,Public,2021-10-31
+57,Antoine,Perrier,F,1941-12-18,Diallo,Public,2025-11-22
+58,Jacqueline,Arnaud,M,1947-07-11,Gilbert,Public,2021-04-11
+59,Adrien,Costa,M,2002-01-30,Vaillant-sur-Dos Santos,None,2022-10-21
+60,Benjamin,Bazin,M,1937-05-20,Sainte Dianeboeuf,None,2025-12-13
+61,Suzanne,Cordier,F,2019-07-17,Francois-sur-Fouquet,None,2021-10-15
+62,Julie,Andre,M,1964-10-20,Ponsnec,Private,2025-03-08
+63,Corinne,Remy,F,1984-12-15,Peron,None,2021-09-09
+64,Patricia,Vaillant,F,1972-02-15,Milletnec,None,2025-04-17
+65,Alexandrie,Marchand,F,1961-03-20,Faure,None,2024-05-02
+66,Charlotte,Lopes,M,1943-03-22,Martins-sur-Boyer,None,2025-08-18
+67,Adele,Lemoine,M,1938-03-07,Rousseau-sur-Mer,None,2024-08-12
+68,Amelie,Baron,F,1984-02-12,Saint HortenseBourg,None,2021-11-21
+69,Susan,Collet,F,1940-04-26,Rouxdan,Public,2021-02-03
+70,Margaux,Caron,F,2017-05-08,Jean,Private,2022-11-05
+71,Audrey,Bazin,M,2009-01-21,Alexandre,Private,2023-01-07
+72,Julien,Perrin,M,2014-05-23,Saint Catherinenec,None,2024-06-13
+73,Pauline,Berthelot,F,1949-11-09,Saint Nath,None,2023-08-02
+74,Arnaude,Bousquet,M,1958-01-29,Mathieu,None,2024-12-10
+75,Celina,Charpentier,M,1961-04-22,Chevalier,None,2023-10-11
+76,Guy,Giraud,F,2001-01-28,Delattre,None,2022-11-04
+77,Valentine,Pruvost,M,1998-08-01,Becker-la-Foret,Public,2025-02-25
+78,Chantal,Samson,F,2006-11-19,Bruneau,Public,2025-10-28
+79,Renee,Ferreira,M,1998-06-07,Buissonnec,None,2025-01-08
+80,Lucas,Navarro,F,1961-04-27,Gerard-sur-Mer,Private,2022-02-09
+81,Virginie,Bailly,M,1952-07-30,Saint Emmanuel,Public,2024-11-22
+82,Martin,Briand,F,1955-01-29,Hardy-sur-Mer,Private,2022-07-16
+83,Michele,Mathieu,M,2013-02-17,Sainte JeanneVille,Public,2023-01-02
+84,Gerard,Lombard,M,1944-01-26,Barbier-les-Bains,None,2023-08-20
+85,Aime,Dias,M,2011-10-27,Saint Louise-la-Foret,Public,2025-06-22
+86,Alix,Bruneau,F,1972-04-12,Bourgeois,Public,2025-05-31
+87,Eleonore,Guibert,M,1967-09-29,Jacobnec,Public,2021-04-01
+88,Elodie,Guillou,F,1980-10-13,Clerc-la-Foret,None,2025-05-09
+89,Simone,Gomes,M,2006-10-07,Gerard,Private,2021-05-21
+90,Simone,Jacquot,F,1952-08-06,Laine-les-Bains,Public,2021-08-13
+91,Christophe,Fournier,M,2017-10-01,Dupuy,None,2025-03-31
+92,Gregoire,Chauvet,F,2012-10-19,Vidal-sur-Millet,Private,2021-10-25
+93,Roger,Rodrigues,F,1938-11-03,Imbert,Private,2023-02-14
+94,Claire,Lemoine,F,1997-04-06,Saint Laurence,Public,2021-09-08
+95,Valerie,Besnard,M,1963-04-03,Saint Marguerite-la-Foret,Public,2021-12-08
+96,Philippine,Peltier,M,1949-12-09,Sainte Richard-les-Bains,Private,2022-04-15
+97,Diane,Chauvet,M,1963-07-22,Paul,None,2022-07-21
+98,Francoise,Colas,M,1963-01-02,Hoarau,None,2022-06-17
+99,Maryse,Blanc,M,2011-02-20,Sainte Lorraine-la-Foret,Public,2024-08-01
+100,Rene,Ribeiro,M,2003-04-27,Daniel,None,2025-09-24
+101,Victor,Begue,M,1948-05-26,Paris,Public,2022-02-04
+102,Alice,Joly,M,1994-02-21,Gaillard,Public,2023-10-30
+103,Christelle,Chevalier,F,1996-08-16,Mace-sur-Riviere,Public,2021-06-03
+104,Veronique,Dijoux,M,2011-09-01,Leveque-sur-Mer,Private,2022-09-18
+105,Charlotte,Reynaud,F,1939-08-25,Chauveau-les-Bains,Public,2024-05-14
+106,Helene,Dias,M,1992-11-23,Laroche,None,2022-09-02
+107,Pierre,Peron,F,2008-08-31,Jacques,Public,2024-07-04
+108,Philippine,Levy,F,2002-06-17,Leroy,Private,2023-04-02
+109,Antoine,Pierre,M,1963-01-26,Marty,Public,2024-03-08
+110,Christiane,Martinez,M,1962-03-06,Dupuis,None,2024-10-23
+111,Julie,Guillaume,F,1958-03-23,Roux-sur-Michel,Private,2023-08-10
+112,Michelle,Hoareau,F,1957-02-09,Saint Marcboeuf,Private,2023-09-20
+113,Noemi,Gros,F,2018-11-28,Sainte Marcelledan,None,2022-10-09
+114,Christiane,Dupuis,M,2024-05-24,Lemonnier-la-Foret,None,2021-02-27
+115,Georges,Nicolas,M,1998-04-21,Nicolas,Public,2022-07-18
+116,Yves,Foucher,F,2007-03-10,Lecomtedan,None,2024-11-15
+117,Matthieu,Deschamps,F,2004-07-08,Mendes-sur-Dubois,Public,2022-09-21
+118,Lucas,Ollivier,M,1981-02-01,Diallo-sur-Laporte,Public,2024-07-11
+119,Emmanuel,Chartier,M,1975-01-14,Bernard,None,2023-10-13
+120,Pierre,Boucher,F,1990-02-03,Lecomte-sur-Pereira,Public,2023-02-21
+121,Leon,Albert,F,2016-01-08,Raymond,Public,2021-03-22
+122,Alex,Pons,F,2022-03-02,Alvesnec,Private,2024-01-01
+123,Penelope,Perrier,M,1963-08-21,Camus,Public,2025-01-17
+124,Aimee,Merle,F,1965-09-09,Saint Marianne-les-Bains,None,2024-12-22
+125,Dominique,Buisson,M,2020-05-04,Saint Victoire-les-Bains,Public,2024-02-24
+126,Suzanne,Masse,M,1950-04-11,Gregoire,Public,2022-07-04
+127,Eric,Guerin,M,1951-05-06,Lebrun,Public,2024-10-17
+128,Alex,Brunet,F,1968-07-19,De Oliveira-les-Bains,Private,2022-10-25
+129,Corinne,Dupuis,F,1984-03-21,Saint Etienne-sur-Mer,Public,2022-06-29
+130,Sylvie,Jacques,F,1999-04-09,Saint Benoit,Public,2024-05-14
+131,Edouard,Roux,M,2020-06-09,Salmon,Private,2023-05-28
+132,Astrid,Collin,M,2002-05-20,Perrinnec,Private,2024-03-14
+133,Marcel,Buisson,F,1953-05-20,Breton,Private,2025-11-12
+134,Frederic,Labbe,F,1945-06-21,Gonzalez,Private,2023-06-08
+135,Claudine,Guibert,F,1937-07-17,De Sousadan,Public,2021-09-16
+136,Cecile,Menard,M,1981-09-12,Boucher,Private,2026-01-31
+137,Lorraine,Gilles,M,2023-08-09,Gilles-sur-Hubert,Public,2023-12-11
+138,Noemi,Tanguy,M,1999-02-17,Saint Dorotheeboeuf,None,2024-05-04
+139,Susanne,Ribeiro,F,1965-05-14,Sainte Elodie-les-Bains,Public,2026-01-21
+140,Noel,Henry,M,2005-09-26,Sainte Jacques,None,2021-05-23
+141,Antoine,Renaud,F,1956-11-05,Saint Elodie,None,2024-09-03
+142,Olivier,Perrier,M,1960-11-15,Guillaume,Public,2022-01-17
+143,Stephane,Meunier,M,1978-05-05,BenardVille,Public,2025-05-08
+144,Tristan,Vallee,M,2002-01-03,Sainte EmilieBourg,None,2022-07-10
+145,Emilie,Verdier,M,2021-11-07,Bernier,None,2024-05-24
+146,Thibaut,Fouquet,M,1989-11-17,Dupre,Private,2021-05-01
+147,Manon,Alexandre,M,1939-09-28,Sainte Joseph,None,2024-09-12
+148,Sebastien,Delannoy,M,2012-03-25,Dupuis,None,2024-08-19
+149,Isabelle,Dupont,M,2013-12-25,BlancBourg,None,2025-10-18
+150,Anais,Pons,M,1938-10-31,Mullerboeuf,Private,2024-02-25
+151,Philippe,Carre,F,2024-05-27,Michel,Private,2024-03-27
+152,Celina,Hamel,M,2013-07-02,Guillet,None,2023-03-18
+153,Penelope,Gay,F,2000-08-28,Sainte Louis,Public,2024-08-30
+154,David,Fernandez,F,1959-03-31,Renaud-les-Bains,Private,2025-10-31
+155,Julien,Bertrand,M,1937-04-22,Jacques,None,2025-06-30
+156,Etienne,Hoarau,F,2004-07-02,Sainte Jeannedan,Private,2021-03-02
+157,Suzanne,Navarro,F,1942-05-27,Da Silva,Public,2025-07-07
+158,Etienne,Klein,M,1939-03-26,Clement,Private,2022-10-30
+159,Emmanuel,Mercier,M,1971-07-02,TurpinBourg,Public,2025-10-10
+160,Roger,Julien,M,1947-11-10,Boucher-sur-Cohen,None,2024-11-26
+161,Adelaide,Raymond,F,1950-02-18,Fleury,Public,2023-12-06
+162,Colette,Lelievre,F,1975-12-03,Berger,Public,2025-11-23
+163,Claudine,Leclerc,M,1994-03-17,Saint Constance-sur-Mer,Private,2023-12-05
+164,Alexandrie,Gillet,F,1953-07-07,Mercier-la-Foret,Public,2025-07-19
+165,Aimee,Noel,F,2018-11-10,Saint Adrienne-la-Foret,None,2023-01-24
+166,Franck,Salmon,F,1971-11-14,Gay-la-Foret,None,2022-06-07
+167,Martin,Legros,M,1985-03-04,Vasseur,None,2021-03-29
+168,Adelaide,Mahe,F,1997-08-22,Chevalier-les-Bains,None,2025-01-15
+169,Richard,Leleu,M,2011-06-06,Brunel,Public,2025-03-25
+170,Margaud,Marques,F,2024-10-05,Guillaume-sur-Marechal,Public,2025-03-11
+171,Aimee,Leger,M,1993-12-02,Dos Santos,None,2025-04-01
+172,Laure,Raymond,M,1959-05-11,Morelnec,Private,2021-12-17
+173,Christelle,Breton,F,1984-11-14,Jacob,None,2024-08-10
+174,Suzanne,Benard,M,2013-06-12,Bertrand-sur-Langlois,None,2024-02-20
+175,Adrien,Evrard,F,1938-06-08,Roche,Public,2021-07-18
+176,Paul,Marchal,F,1974-10-24,Dupre,None,2022-11-19
+177,Francois,Rolland,F,1943-05-28,Bonnet,Private,2021-02-20
+178,Alex,Maurice,M,2016-12-17,Barbier,Public,2022-07-16
+179,Christelle,Payet,F,2014-10-17,Salmon,Private,2024-01-26
+180,Guy,Benard,M,2009-05-12,Guyon,Public,2021-12-21
+181,Diane,Lenoir,F,1966-04-25,Robert,Public,2024-03-26
+182,Suzanne,Daniel,F,1974-07-20,Mercier,Public,2024-09-05
+183,Christophe,Colin,F,1994-09-14,Tessier,None,2021-08-23
+184,Jean,Gilbert,F,1978-05-29,Saint Christianeboeuf,None,2024-02-10
+185,Leon,Bonneau,M,1982-07-07,Rodriguez,Public,2024-01-10
+186,Margaud,Gregoire,M,1996-07-17,Merle,None,2021-08-19
+187,Alphonse,Lecomte,M,1964-05-19,Hernandez-les-Bains,None,2024-11-05
+188,Chantal,Simon,M,2024-09-13,Lemonnierboeuf,Private,2023-12-21
+189,Etienne,Boyer,M,1995-02-15,Bigot,Private,2024-04-21
+190,Lorraine,Colin,M,2019-01-26,Sainte Dominique,Public,2025-06-06
+191,Charles,Peron,F,1937-08-04,RogerBourg,Private,2021-10-01
+192,Jean,Rodriguez,M,1969-08-30,Francois,Private,2024-12-09
+193,Anne,Perez,M,1975-06-03,Payetboeuf,None,2025-05-11
+194,Adele,Cordier,M,1961-12-24,Sainte Eleonore,None,2025-03-01
+195,Agathe,Dos Santos,M,2010-08-11,Perrierboeuf,Private,2022-01-22
+196,Louis,Guibert,F,1959-07-09,Godard,None,2024-10-19
+197,Eugene,Bouvier,M,2019-03-31,Saint Bernadette-la-Foret,Public,2025-10-15
+198,Ines,De Oliveira,M,1990-02-24,Diallo-sur-Legendre,Public,2024-10-24
+199,Laurence,Gallet,F,1992-07-12,Sainte Marcelle-la-Foret,Public,2023-08-21
+200,Celina,Nguyen,M,1956-10-09,Marechal,None,2025-07-20
+201,Laetitia,Gimenez,F,1961-05-24,Saint ThomasVille,Private,2025-07-12
+202,Gabrielle,Gomez,M,2022-01-15,Saint Alexandria,Private,2024-07-25
+203,Olivie,Lemonnier,M,1985-12-12,Payetnec,None,2022-12-08
+204,Frederic,Costa,M,2025-01-03,Saint Josette,Private,2025-07-25
+205,Benoit,Gregoire,M,1985-04-08,Perrotdan,Private,2021-02-07
+206,Guillaume,Georges,M,1953-12-28,Andre-la-Foret,Public,2024-01-01
+207,Manon,Richard,F,2000-11-12,Carreboeuf,Private,2024-04-22
+208,Francoise,Carpentier,F,2003-01-30,Saint Brigitte-les-Bains,Public,2023-10-06
+209,Marie,Mary,M,1984-06-03,Maillot,Public,2022-03-19
+210,Pauline,Gosselin,M,1937-11-22,Sainte CapucineVille,Private,2025-07-15
+211,Sabine,Allard,F,1976-02-20,Sainte Philippineboeuf,Private,2022-03-05
+212,Eugene,Lombard,M,1939-01-05,Garnier-sur-Mer,Private,2024-07-01
+213,Denis,Jourdan,F,1952-10-19,Mariondan,None,2023-11-26
+214,Laurence,Barre,F,1998-02-10,Renault-sur-Marty,None,2023-10-16
+215,Amelie,Gilbert,F,1996-07-15,Huet-sur-Carpentier,Public,2024-11-09
+216,Guillaume,Camus,M,1984-04-12,Blanchard-sur-Mer,Private,2022-04-16
+217,Hortense,Boulanger,M,1988-07-30,Dubois-sur-Lesage,None,2023-05-23
+218,Francois,Etienne,F,1986-05-03,Carpentier-sur-Mer,Public,2022-01-09
+219,Marie,Charrier,M,2010-11-09,Marchand-les-Bains,None,2024-02-02
+220,Michelle,Ramos,F,2014-09-15,Saint Jeanne-la-Foret,Private,2025-09-20
+221,Michelle,Klein,F,1950-02-20,Fouquet,Private,2023-04-01
+222,Laure,Prevost,M,1941-12-14,Petitboeuf,Private,2023-07-09
+223,Gilles,Pottier,M,1997-06-15,PoirierVille,Private,2024-06-27
+224,Gilles,Ruiz,M,1955-08-01,Normanddan,None,2025-12-25
+225,Renee,Marty,F,1962-12-29,Olivier-sur-Sanchez,Public,2021-04-09
+226,Alexandria,Olivier,M,1994-01-16,Danielboeuf,Private,2021-12-15
+227,Michele,Sanchez,F,1973-09-02,Godard,Public,2024-05-20
+228,Astrid,Cousin,F,1955-01-04,Rossi,None,2024-06-07
+229,Claire,Chretien,F,1940-10-14,Saint Robertdan,None,2023-01-08
+230,Georges,Merle,M,2004-09-20,Bodin,None,2023-03-10
+231,Thibaut,Lesage,F,1996-04-04,Arnaud,None,2024-06-05
+232,Chantal,Philippe,F,1998-05-11,Girard,None,2022-06-06
+233,Tristan,Paul,F,1946-05-01,Dumasdan,Private,2025-11-05
+234,Nicolas,Petitjean,F,1993-08-29,Sainte Dominique,None,2022-06-26
+235,Rene,Voisin,F,1946-11-12,Normand,None,2023-05-27
+236,Adrienne,Neveu,M,2005-03-16,Gimenez,Public,2024-09-20
+237,Jeanne,Charpentier,F,1939-06-24,Picard,None,2024-05-08
+238,Maurice,Dupuy,F,2004-09-17,Girardboeuf,None,2022-01-13
+239,Nath,Peltier,M,1983-04-27,Goncalves-les-Bains,None,2022-09-08
+240,Xavier,Jacquet,F,1939-11-17,Lacroixnec,Private,2024-06-14
+241,Gregoire,Couturier,M,1948-04-12,Gosselin,Private,2024-05-25
+242,Elodie,Petitjean,F,1978-06-10,Sainte Suzanne,Public,2021-08-05
+243,Elodie,Ledoux,F,1965-05-20,Sainte Nathalie,None,2024-06-16
+244,Anouk,Boyer,F,1992-09-29,BoyerBourg,Private,2022-01-09
+245,Isabelle,Pages,F,1964-04-10,Jean,Private,2025-11-15
+246,Mathilde,Gilbert,M,1967-10-14,Gonzalez-sur-Diallo,None,2021-12-12
+247,Monique,Riviere,F,1976-09-06,BaudryVille,None,2024-12-28
+248,Virginie,Paul,M,1970-02-03,Arnaud,None,2024-12-16
+249,Celina,Leger,M,2012-05-15,Bouvet-la-Foret,Private,2021-09-01
+250,David,Henry,F,1988-06-23,Rolland-sur-Blanchet,Public,2023-07-10
+251,Honore,Bazin,M,1940-01-09,Dupre,None,2021-11-04
+252,Paulette,Bertin,F,1985-02-02,Turpin-la-Foret,Public,2023-11-23
+253,Nicole,Martinez,M,1958-03-20,Simon,Public,2025-08-13
+254,Guy,Dupuis,M,1968-05-17,Gaudin,Public,2021-02-06
+255,Jeanne,Hamon,M,1946-01-16,Brunel,Private,2021-05-14
+256,Monique,Benoit,M,1968-06-04,Saint Richard-les-Bains,Private,2023-08-22
+257,Roland,Gautier,F,1951-08-20,TexierBourg,None,2022-06-30
+258,Guy,Camus,M,1990-03-04,Legrand,None,2024-02-08
+259,Isabelle,Gomez,F,2024-03-25,Bourdon-sur-Lefebvre,Private,2023-04-05
+260,Gerard,Carpentier,F,1963-05-05,Bertin,Public,2025-06-28
+261,Caroline,Muller,M,1959-06-01,Michaud,None,2024-01-21
+262,Alain,Lamy,M,1944-10-11,Sainte Madeleine,Public,2022-04-19
+263,David,Bonneau,F,1999-09-12,Diaz-sur-Payet,Public,2022-05-02
+264,Noemi,Bonneau,M,1963-01-19,Normand,None,2025-12-29
+265,Alexandrie,Vasseur,F,1969-04-07,Sainte Agnesnec,Public,2023-02-07
+266,Michel,David,M,2004-04-25,Benoit-sur-Marchal,Public,2024-10-09
+267,Alphonse,Gay,F,1985-11-06,Maillard,Public,2024-05-18
+268,Corinne,Hoareau,F,1984-04-15,Reynaud,None,2021-05-07
+269,Thibault,Rousset,F,1941-09-08,Sainte Tristan,Private,2025-01-10
+270,Camille,Guilbert,F,1939-11-27,Delaunay,None,2024-08-26
+271,Marie,Meunier,F,1946-02-13,Saint NicolasVille,Public,2025-12-02
+272,Timothee,Noel,F,1973-11-02,Gautier,Private,2025-03-16
+273,Margaret,Muller,F,1953-03-02,Chauvet,Public,2024-01-29
+274,Alexandre,Lefort,F,1985-07-17,Gerard-sur-Mer,None,2023-07-01
+275,Genevieve,Mary,F,1966-11-04,Pires,None,2022-10-30
+276,Charles,Laporte,M,1990-09-09,Bigot,Private,2021-02-02
+277,Agathe,Da Costa,F,1956-05-29,Blanchet-sur-Andre,Public,2022-07-14
+278,Margot,Roche,F,2005-07-23,ValletBourg,Public,2021-08-13
+279,Auguste,Fleury,F,1968-03-06,HubertBourg,Private,2023-04-15
+280,Josephine,Hardy,F,1980-06-05,Colin,None,2021-07-12
+281,Genevieve,Pereira,M,1994-11-30,Masse,Public,2021-03-22
+282,Christine,Coulon,M,2020-11-01,Saint Guy-les-Bains,Public,2021-11-01
+283,Jeannine,Barbe,F,1969-09-29,Perrot,None,2024-02-16
+284,Dominique,Marion,M,2001-02-06,Etiennedan,None,2022-01-10
+285,Zoe,Godard,M,2021-04-24,Sainte Martine,Public,2021-12-08
+286,Aimee,Peltier,F,1942-09-01,Saint Simone,Private,2025-03-31
+287,Edouard,Tessier,F,1940-11-12,PerrinBourg,None,2024-05-25
+288,Aime,Paul,F,1996-08-14,Sainte LeonVille,Private,2021-10-28
+289,Timothee,Thomas,M,1952-05-28,Martinezdan,Public,2024-08-31
+290,Michel,Durand,F,1946-01-15,Blin,Private,2022-10-22
+291,Jerome,Germain,M,1981-01-08,Maury-sur-Gomez,None,2025-12-17
+292,Marc,Richard,F,1994-05-21,Renault,Private,2025-10-25
+293,Roland,Raynaud,M,2018-03-16,Mendes-sur-Pasquier,Private,2021-06-01
+294,Manon,Launay,F,1936-10-08,Briand-sur-Salmon,Private,2023-05-04
+295,Gerard,Humbert,F,1966-09-23,Blanc,None,2025-08-01
+296,Agnes,Gallet,M,1957-02-14,Lucas,Private,2023-02-03
+297,Aurelie,Garcia,M,1976-06-04,Guichard,Private,2021-07-18
+298,Nicolas,Lombard,F,1994-09-22,Delahayedan,Private,2021-11-24
+299,Jerome,Dupuy,M,2002-04-07,Saint Constance-la-Foret,Private,2021-07-03
+300,Raymond,Renard,F,1959-07-30,Blanchet-les-Bains,None,2021-02-17
+301,Alain,Salmon,F,2007-09-25,Evrard,None,2025-08-30
+302,Josette,Vasseur,M,1961-01-09,Guillot-sur-Vasseur,Private,2025-09-05
+303,Dominique,Carpentier,M,2014-12-03,Regnier-sur-Mer,None,2024-05-06
+304,Arthur,Launay,M,1979-08-22,Rey,Private,2023-06-29
+305,Laure,Da Silva,M,1957-02-02,Teixeira-sur-Boutin,Public,2024-01-27
+306,Jeannine,Gerard,F,2024-12-20,Barbierboeuf,Public,2023-03-30
+307,Claudine,Ferrand,F,2013-02-02,Nguyen-sur-Mer,Public,2025-04-21
+308,Etienne,Valette,M,2001-02-02,Olivier-sur-Mer,Private,2024-05-05
+309,Patrick,Duhamel,F,1998-12-13,LegendreVille,Private,2022-07-19
+310,Emilie,Hubert,M,2011-07-31,Fleury,Private,2025-03-17
+311,Marthe,Colas,F,2002-10-21,LegrosBourg,Private,2021-04-27
+312,Eric,Becker,F,1945-06-25,Ponsboeuf,Private,2023-08-21
+313,Marguerite,Lombard,F,1966-01-23,Sainte Laurent,Private,2025-02-09
+314,Laure,Hoareau,M,1940-10-26,Chevallier-sur-Mer,Private,2021-07-01
+315,Alex,Aubry,M,2012-05-04,Moreau-sur-Lelievre,None,2023-04-16
+316,Louise,Aubert,M,1938-07-22,Valletdan,Private,2021-12-13
+317,Christelle,Alexandre,M,2023-05-14,Millet,None,2024-05-28
+318,Aime,Renault,M,2009-09-13,Girarddan,None,2025-07-03
+319,Gregoire,Fernandez,M,2010-01-27,Leblanc,Public,2024-12-08
+320,Anais,Begue,M,1991-05-30,Guillon-sur-Mer,Public,2023-01-27
+321,Christine,Rodrigues,M,1975-10-12,Lopez-sur-Bouchet,None,2024-09-23
+322,Adelaide,Masson,M,1940-12-27,Coste,Public,2022-03-21
+323,Marianne,Fontaine,M,2021-04-03,Chretien,Private,2022-03-09
+324,Laurence,Moreau,M,1988-07-16,Fernandes,None,2024-11-26
+325,Timothee,Allard,M,1938-01-11,Saint Mathildedan,Private,2021-10-20
+326,Oceane,Vallet,F,1990-12-01,Lejeuneboeuf,Private,2024-07-30
+327,Cecile,Chevalier,M,2003-09-28,Lebrun-sur-Guerin,None,2023-10-20
+328,Agnes,Fouquet,M,1994-01-29,Etienne,Public,2025-04-22
+329,Marguerite,Barre,F,1978-05-16,Torres,Public,2025-04-08
+330,Charles,Collet,M,1964-05-30,Morel,Private,2021-09-04
+331,Michelle,Marie,F,1965-05-27,Lecomte,Private,2021-03-04
+332,Celine,Lacroix,M,2020-11-01,Sainte Nathalienec,Public,2022-08-05
+333,Benoit,Bouchet,M,2008-12-31,BenardVille,Public,2022-01-21
+334,Denis,Masson,F,1980-06-29,Neveu,None,2025-07-01
+335,Rene,Vallee,M,1972-04-21,Rolland-sur-Rolland,None,2022-08-23
+336,Valentine,Delahaye,M,1987-07-18,Perezdan,Private,2023-08-12
+337,Sophie,Lesage,F,2018-10-15,Hameldan,None,2024-06-18
+338,Audrey,Vidal,F,1997-06-29,Ollivier-sur-Leblanc,Public,2025-01-22
+339,Colette,Bruneau,F,1951-06-05,Munoz,Public,2025-12-27
+340,Alex,Leclercq,F,1956-01-05,Saint Noemiboeuf,Private,2021-12-27
+341,Jean,Roche,M,1992-11-10,Bourdon,Private,2024-04-03
+342,Christine,Turpin,F,2017-08-21,Vincent-les-Bains,None,2023-06-16
+343,Emilie,Baudry,F,1941-03-29,Saint Susan,None,2023-08-25
+344,Marguerite,Carlier,M,1948-12-15,GarnierBourg,Private,2023-06-11
+345,Franck,Blondel,M,1967-12-13,Simondan,None,2025-02-14
+346,Virginie,Delmas,F,1998-04-20,Sainte Alphonse-les-Bains,None,2021-07-03
+347,Dominique,Muller,F,1998-06-05,Leconte,Private,2023-10-25
+348,Diane,Leroy,F,1971-02-14,Guyon,None,2022-05-03
+349,Alexandria,Bernier,F,1999-01-13,PotierVille,Private,2026-01-08
+350,Robert,Roger,M,1955-09-27,Le Roux,Public,2023-05-23
+351,Henriette,Fischer,F,1985-10-11,Valentin-la-Foret,Private,2024-07-20
+352,Alexandria,Colas,M,2000-06-06,Martynec,Private,2021-08-20
+353,Charles,Moreno,F,2011-04-29,Nicolas,Private,2022-02-28
+354,Caroline,Gaudin,M,1945-02-28,Lacroix,Private,2024-09-22
+355,Benjamin,Rousset,F,1961-12-07,Gaudin,Public,2022-02-17
+356,Ines,Cohen,F,2002-06-28,Voisin,Public,2024-04-03
+357,Marthe,Charles,F,1970-05-24,FournierVille,Private,2025-07-14
+358,Danielle,Bruneau,F,1937-07-30,Sainte Alicenec,Private,2023-03-23
+359,Alfred,Gilles,F,2001-02-12,Roussel,None,2024-12-22
+360,Lucas,Fischer,M,1986-09-28,Riviere,None,2025-12-07
+361,Henri,Guerin,M,1936-12-20,Sainte Richard,Public,2024-03-26
+362,Laure,Denis,M,2004-01-20,Sainte Hortense,None,2021-06-22
+363,Celine,Duhamel,F,1975-11-05,Lamy,Private,2023-08-19
+364,Agnes,Poirier,M,2002-06-05,Saint Julie,None,2025-11-23
+365,Laetitia,Weber,F,1937-07-18,Legendre,None,2025-11-01
+366,Margaux,Grenier,F,2001-07-31,Aubry,Private,2024-12-08
+367,Penelope,Couturier,M,2022-04-18,Reynaud,Public,2025-10-15
+368,Paulette,Gonzalez,F,2008-02-16,Dumas-les-Bains,Public,2021-09-07
+369,Zoe,Paris,F,1949-03-26,Cohen,None,2022-05-22
+370,Margot,Pages,M,2000-03-29,Vincent,Private,2024-08-25
+371,Stephane,Baron,F,1957-05-26,Techer,Private,2024-11-13
+372,Eleonore,Berger,F,1967-02-22,Pelletier,Private,2025-05-26
+373,Sylvie,David,F,2015-05-10,Saint Penelope-la-Foret,Private,2021-03-28
+374,Christophe,Vincent,F,2013-07-03,Caron,Private,2022-09-27
+375,Marthe,Marin,F,1964-02-05,Saint Alice-les-Bains,Private,2023-09-29
+376,Oceane,Coste,M,1971-02-15,Sainte Christelle-sur-Mer,Public,2025-04-16
+377,Marc,Mary,M,1994-05-08,Saint Charlotte,Private,2023-12-21
+378,Augustin,Hamel,M,2015-02-16,Baudry,None,2021-03-09
+379,Veronique,Morel,M,1953-10-05,Hebert-sur-Nicolas,Public,2021-07-14
+380,Martin,Delorme,M,1957-12-23,Gautier-la-Foret,None,2023-10-07
+381,Thomas,Thomas,F,2001-04-08,Dijouxnec,Private,2024-04-19
+382,Margaud,Berger,F,1984-05-30,Saint Jacqueline-les-Bains,Public,2022-03-25
+383,Agnes,Riou,M,1998-07-01,Regnier,Private,2021-06-26
+384,Nathalie,Joubert,M,1946-10-27,Saint Gabrielle,Private,2023-08-03
+385,Jeannine,Loiseau,M,1959-11-07,Gautier,Private,2022-02-22
+386,Olivie,Martineau,M,1954-04-01,Sainte Annenec,None,2025-05-18
+387,Aime,Hamon,M,2022-07-26,Hamon-sur-Mer,Private,2022-11-12
+388,Alex,Pichon,M,1961-07-03,Saint Agathe,Public,2021-04-21
+389,Dorothee,Gosselin,F,1949-04-27,Saint Penelope,None,2022-03-21
+390,Gregoire,Jacob,M,1953-06-14,Girard,None,2021-08-30
+391,Nicole,Pichon,F,1976-01-04,Payet,Public,2023-10-14
+392,Xavier,Poulain,M,2007-10-22,Buisson-sur-Le Roux,None,2023-01-10
+393,Etienne,Clement,F,1983-07-08,Gaudin,Private,2025-11-04
+394,Dominique,Rodriguez,F,1993-05-17,LemoineBourg,Private,2024-12-10
+395,Antoine,Garcia,F,1947-02-08,Garcia,Public,2024-10-26
+396,Jacques,Brunet,M,1991-01-01,Briand,Private,2024-09-18
+397,Elisabeth,Teixeira,F,2014-07-16,Sainte ChristineBourg,Public,2021-02-27
+398,Emmanuel,Couturier,M,2016-02-03,Saint Thomas,Private,2021-03-18
+399,Sophie,Le Roux,F,1957-08-14,Leclerc-sur-Baudry,Public,2024-09-19
+400,Georges,Chauvet,M,1996-04-05,Le Goff-sur-Verdier,Public,2022-01-17
+401,Gerard,Pruvost,M,1998-05-11,Nicolas,None,2025-04-16
+402,Victoire,Bonnin,F,1996-11-13,Boucher-sur-Lemonnier,Public,2024-05-13
+403,Philippine,Richard,M,1999-10-19,Saint Auguste,Public,2025-03-05
+404,Christine,Blanchard,F,1938-02-28,Dos Santosnec,None,2021-03-23
+405,Leon,Leroy,M,2011-05-29,Gilles,None,2023-06-02
+406,Jacques,Leveque,F,1936-10-31,Ollivierboeuf,Private,2021-11-02
+407,Louis,Germain,F,1956-08-04,Sainte Renee,Private,2024-05-07
+408,Roger,Guillaume,F,2005-09-07,Sainte Claire,Private,2025-03-11
+409,Anouk,Lenoir,M,2005-09-05,Thibault,None,2022-09-14
+410,Yves,Martin,M,1944-08-04,Pereiranec,Public,2024-10-02
+411,Guy,Le Gall,M,2012-10-19,Briand,Private,2026-01-05
+412,Jean,Fournier,M,1996-04-18,Peltier,Public,2023-12-19
+413,Juliette,Charles,M,2009-11-03,Sainte Olivie,Public,2022-06-30
+414,Danielle,Le Goff,M,1986-11-30,Lemaire,Public,2021-02-08
+415,Bertrand,Marion,M,2008-06-03,Brunet,Private,2023-03-11
+416,Denis,Vasseur,F,1947-07-08,Faure,None,2022-09-21
+417,Benoit,Carlier,F,1986-10-28,Delannoy,Private,2023-10-01
+418,Emile,Raynaud,M,2013-08-30,Renaud,Public,2023-08-05
+419,Caroline,Ferrand,F,1938-10-22,Brun,None,2023-01-29
+420,Margot,Allain,F,1948-02-03,Merle-sur-Mer,None,2023-12-05
+421,Laetitia,Guillon,F,2014-02-16,Begue-les-Bains,Public,2025-07-11
+422,Michel,Leroux,M,1954-01-19,Becker-sur-Becker,Private,2025-11-23
+423,Sabine,Da Costa,M,1999-03-04,Gerardnec,Private,2023-01-02
+424,Patrick,Martins,M,2021-11-13,Lemaire-sur-Charrier,None,2023-11-24
+425,Valentine,Navarro,M,1994-10-16,Saint Cecile,None,2022-10-03
+426,Eugene,Maillard,M,1943-12-30,Boulanger,Private,2022-04-09
+427,Alexandre,Barthelemy,M,2003-08-06,Saint Agatheboeuf,Public,2024-04-29
+428,Suzanne,Cousin,M,1944-06-01,BarbierVille,Public,2022-11-05
+429,Eugene,Georges,F,1939-08-18,Delmas,None,2025-06-25
+430,Alphonse,Guillet,F,1936-06-06,Rossi-sur-Mer,Private,2022-03-24
+431,Virginie,Jacob,M,1954-10-20,Lemoine-la-Foret,Private,2023-02-09
+432,Colette,Brun,F,1970-09-21,Boulanger-sur-Maurice,None,2023-01-19
+433,Edith,Bernard,F,1956-07-02,Bonneau-sur-Masse,Private,2021-08-23
+434,Margaux,Blondel,F,1944-06-12,Giraud,Private,2024-07-12
+435,Eugene,Bourdon,M,1999-05-12,ToussaintVille,None,2024-02-14
+436,Thierry,Maillet,M,1953-01-20,Alexandre,Private,2023-08-03
+437,Paulette,Maillet,F,1988-07-25,Vasseur-sur-Briand,None,2024-08-19
+438,Edith,Bouvet,F,2009-01-02,Godard,Public,2024-12-10
+439,Cecile,Nicolas,M,1952-07-11,Sainte Roger,Public,2021-12-29
+440,Eugene,Klein,M,1980-01-13,Guerin,None,2025-01-04
+441,Margaret,Colas,F,1940-05-21,Perrot,None,2021-10-29
+442,Isaac,Leclerc,M,2001-11-23,Guilbert,Public,2021-08-19
+443,Patrick,Nicolas,F,2007-06-21,Renard-sur-Fleury,None,2023-12-07
+444,Louise,Petit,F,1969-04-10,Sainte Capucine,Private,2023-12-10
+445,Robert,Moreau,M,1958-10-02,Baron,None,2022-09-07
+446,Gabriel,Richard,F,1961-01-05,Menard-les-Bains,None,2022-06-12
+447,Astrid,Besson,F,1936-04-27,Gauthierboeuf,Public,2023-06-27
+448,Marine,Lambert,F,1971-11-05,Teixeira-sur-Mer,Private,2025-05-28
+449,Claudine,Torres,F,1969-02-11,HumbertVille,Private,2021-07-04
+450,Jules,Vaillant,F,2015-11-15,Sainte MaggieVille,None,2023-05-04
+451,Francoise,Nguyen,M,1984-02-15,Costa,Public,2022-05-13
+452,Alexandrie,Blanchard,F,2022-11-23,Ruiznec,Private,2024-06-18
+453,Sebastien,Boutin,F,1996-05-08,Martinez-sur-Guibert,Private,2023-11-27
+454,Noemi,Rolland,F,1963-05-22,SanchezBourg,None,2021-04-06
+455,Arthur,Guillet,M,2019-06-06,Voisin,Private,2023-01-10
+456,Franck,Dumas,M,1941-08-25,Briand-les-Bains,Private,2021-02-03
+457,Elisabeth,Sauvage,F,1971-05-15,Pelletier,Private,2023-06-01
+458,Madeleine,Lamy,M,1935-06-15,Baudry,Private,2024-11-25
+459,Henriette,Chartier,M,2011-08-17,Riou,None,2025-03-04
+460,Camille,Guillon,F,2001-12-25,Saint Henri,Private,2024-08-16
+461,Suzanne,Gomes,M,1954-06-14,Sainte Caroline,Public,2025-06-30
+462,Thierry,Dupuy,F,1995-11-16,Guillon-la-Foret,None,2025-04-24
+463,Gabriel,Pierre,F,2008-07-27,Humbertnec,None,2022-08-28
+464,Valerie,Legendre,F,1996-04-01,Sainte Pauline,Public,2026-01-07
+465,Gabrielle,Vallee,M,2004-09-01,Antoine,Private,2025-12-18
+466,Gilbert,Pereira,M,1987-10-11,Lesage-sur-Leclercq,Private,2024-06-26
+467,Julie,Nicolas,F,1938-03-17,Bonnet-la-Foret,None,2024-04-12
+468,Renee,Jean,F,2009-01-26,Alexandre,Public,2022-09-05
+469,Madeleine,Munoz,M,1965-03-18,Beguenec,None,2021-07-03
+470,Adele,Masson,M,1960-07-18,Sainte Vincent,None,2022-10-25
+471,Philippe,Lecoq,M,1988-05-12,Hebert-sur-Letellier,Private,2022-12-15
+472,Veronique,Pinto,M,1997-12-13,Jean,None,2021-06-17
+473,Mathilde,Baron,F,1953-12-05,Moulin-la-Foret,Public,2025-11-27
+474,Valentine,Guibert,M,1938-09-21,Guilbert-la-Foret,Public,2026-01-30
+475,Eric,Delannoy,F,1937-07-10,Antoine,Public,2024-11-12
+476,Clemence,Maury,M,1953-03-05,Saint Henriette,Private,2026-01-11
+477,Laurence,Robin,F,1980-03-29,Benard,None,2025-08-20
+478,Agathe,Leduc,F,1937-12-17,Sainte Lucdan,Private,2025-01-19
+479,Chantal,Charpentier,F,1948-07-23,Munoz,Private,2021-12-11
+480,Gabriel,Merle,M,2011-10-22,ChauvetVille,Private,2025-09-24
+481,Etienne,Hardy,M,1962-10-12,Lombard-les-Bains,Private,2023-10-04
+482,Audrey,Bertrand,M,1979-05-10,Lejeune,None,2025-08-06
+483,Marie,Guibert,M,1952-11-15,Rollanddan,Public,2025-10-30
+484,Paulette,Lefebvre,F,1970-12-31,Sainte Margot,Private,2022-04-26
+485,Aurelie,Lecomte,F,2016-01-18,Maillardnec,None,2023-06-24
+486,Anastasie,Roy,F,1943-09-27,KleinBourg,Public,2025-11-19
+487,Nicolas,Seguin,F,1944-05-31,Saint Christelle-sur-Mer,None,2025-03-08
+488,Adele,Pascal,F,1946-11-11,Delahaye-les-Bains,None,2021-07-12
+489,Louis,Morin,F,1986-02-20,Baudry-sur-Bonnin,Public,2023-09-23
+490,Thibault,Gros,F,1948-03-08,Seguin-la-Foret,None,2025-06-07
+491,Adrienne,Bouvet,F,2020-07-03,Jacquet,Private,2023-09-23
+492,Constance,Etienne,F,2010-10-16,Lefebvre,None,2023-04-02
+493,Antoinette,Lebrun,F,1948-07-04,Guibert,Private,2024-11-25
+494,Thomas,Coste,F,1979-02-09,Giraud,Public,2023-07-30
+495,Andree,Andre,M,1953-08-25,Jacob,None,2024-05-27
+496,Gabriel,Lecoq,F,1990-02-22,Marie,Public,2024-08-16
+497,William,Masson,F,2012-09-14,Deschamps,Public,2025-11-02
+498,Etienne,Carlier,F,2020-11-19,Dijouxnec,None,2024-12-26
+499,Cecile,Renault,F,2018-05-08,Delmas,None,2023-09-29
+500,Alix,Carpentier,F,2000-08-08,Ribeiro-sur-Salmon,Private,2025-04-07
+501,Paul,Lacombe,M,2014-03-26,Saint Anouk,Private,2023-01-31
+502,Cecile,Le Roux,M,1955-03-23,Brunel,Public,2025-07-17
+503,Alix,Morin,F,1984-06-10,Guibert-la-Foret,Public,2022-03-17
+504,Alex,Lemonnier,F,1991-07-12,Launay,Public,2024-04-18
+505,Yves,Vasseur,F,1973-01-24,Sainte Aimee,Public,2025-03-16
+506,Marthe,Descamps,M,2022-12-19,Saint Emilie,Private,2021-12-06
+507,Susan,Mary,M,2012-03-12,Gonzalez,Public,2022-05-18
+508,David,Pons,F,1990-11-11,Clerc,Private,2022-11-25
+509,Valentine,Texier,F,1974-10-15,Sainte Aimee,None,2024-03-21
+510,Patricia,Le Roux,F,1968-04-19,Petitjean-sur-Caron,None,2022-09-17
+511,Michelle,Marques,M,1947-10-07,Sainte Josephine,Private,2022-03-12
+512,Jeanne,Gimenez,F,2006-07-21,Lemonnier,Private,2022-06-18
+513,Margaux,Mace,F,2002-09-11,Sainte Christelle,None,2023-04-21
+514,Jacques,Regnier,M,1942-08-06,Lejeunedan,None,2022-11-05
+515,Emile,Rolland,M,1995-07-14,Antoine,Public,2023-07-29
+516,Laurent,Mary,F,1943-08-07,Richard-sur-Labbe,Public,2024-06-16
+517,Remy,Simon,M,2020-09-01,Masse,Private,2022-09-22
+518,Charles,Chauvin,M,2017-01-02,Perrin,None,2025-12-07
+519,Edouard,Lefebvre,M,1957-03-20,Millet-sur-Mathieu,Private,2025-08-01
+520,Lorraine,Martel,M,1999-01-09,Bertrand,None,2024-03-05
+521,Alain,Bertin,F,2000-03-26,Georges,Public,2021-03-19
+522,Edouard,Reynaud,M,1960-10-20,Collin,Private,2021-11-04
+523,Suzanne,Meyer,M,2023-12-04,LefortBourg,Private,2025-01-06
+524,Robert,Duval,F,1964-04-29,Dumont,Private,2025-03-22
+525,Oceane,Hernandez,F,2007-07-13,Lemonnier,Public,2023-04-20
+526,Lucas,Lacroix,M,1948-04-14,Sainte Carolineboeuf,None,2025-02-15
+527,Susan,Guillon,F,1956-03-23,Saint Mauricedan,None,2024-08-27
+528,Thibault,Dubois,M,1952-09-10,Riviere-la-Foret,Public,2024-04-09
+529,Laure,Begue,M,2007-09-21,Delannoy,Public,2024-02-28
+530,Alain,Delattre,F,1935-05-24,Sainte Josephine,None,2022-11-04
+531,Jules,Parent,M,1976-10-18,Daniel,Private,2024-08-03
+532,Alphonse,Riou,M,1999-09-01,BesnardVille,Public,2025-11-08
+533,Maryse,Jacquet,F,2019-11-22,Dumasnec,None,2025-06-19
+534,Danielle,Torres,F,2000-12-23,Verdier,Private,2025-02-01
+535,Bernadette,Andre,F,1960-07-21,Barre,None,2025-10-20
+536,Nath,Renaud,M,1964-05-17,Rossi,Private,2022-10-29
+537,Nicolas,Brun,F,2007-02-09,Poirier,None,2024-11-02
+538,Guillaume,Legrand,M,2015-09-27,Etienne-sur-Dias,Public,2024-10-30
+539,Laetitia,Perrier,F,1946-03-16,Simondan,Private,2024-10-09
+540,Henriette,Ledoux,F,1961-02-13,Saint Thomas-sur-Mer,None,2025-12-25
+541,Zoe,De Sousa,F,1995-11-07,Godarddan,None,2022-05-11
+542,Susanne,Martel,F,1940-01-12,Noel,Private,2024-05-30
+543,Daniel,Boucher,F,1993-06-21,Meyer,Public,2023-05-28
+544,Gabriel,Imbert,F,1960-11-30,PoulainBourg,Private,2025-01-18
+545,Laure,Lecomte,M,1989-12-28,Lelievre-sur-Renaud,Public,2025-10-02
+546,Hortense,Marin,F,1985-06-04,Sainte Zoenec,None,2021-10-20
+547,Ines,Joseph,F,2008-04-28,Carlier,None,2021-11-05
+548,Georges,Robert,F,1968-11-21,Regnier,None,2021-08-25
+549,Alex,Besnard,F,1961-07-25,Saint Anaisnec,Public,2022-09-17
+550,Olivier,Ledoux,F,2002-06-18,Baudry-sur-Gautier,Private,2021-10-19
+551,Aurelie,Ruiz,M,1935-11-17,Henry-sur-Mer,None,2024-10-26
+552,Noel,Didier,M,1991-11-01,Sainte Lucas,None,2025-12-08
+553,Arthur,Seguin,F,1945-09-24,Blot,Private,2024-12-02
+554,Mathilde,Vallee,M,1942-08-20,Da Silvaboeuf,None,2025-04-24
+555,Benjamin,Fleury,F,1997-01-13,Saint Diane,Public,2025-03-26
+556,Marie,Huet,M,1994-12-28,Lelievre,None,2021-11-17
+557,Guy,Masse,F,2011-07-02,Barthelemy,None,2023-09-29
+558,Gerard,Boyer,M,2012-12-01,Leducdan,None,2022-02-18
+559,Sophie,Georges,M,1996-04-09,Marie,None,2024-07-17
+560,Luc,Gaudin,M,1982-09-13,Charrier-sur-Joly,Private,2021-02-12
+561,Camille,Sauvage,F,1960-04-28,Sainte Josephine,Public,2022-10-14
+562,Christelle,Pineau,F,1993-04-06,Lombard,None,2024-12-20
+563,Yves,Gaillard,M,2008-01-20,Gaudin-sur-Pires,Public,2021-09-05
+564,Robert,Dias,F,2007-03-01,Charriernec,Private,2025-09-11
+565,Audrey,Martineau,F,2023-08-08,Moreno-sur-Hubert,Public,2023-12-29
+566,Alix,Klein,M,1968-07-13,Leroyboeuf,Public,2023-04-04
+567,Arthur,Duhamel,F,2015-11-02,Sainte Emilie,None,2023-10-08
+568,Ines,Clement,F,2022-02-17,Ribeiro,Public,2024-10-11
+569,Mathilde,Mercier,F,1971-03-27,Salmon,Private,2023-09-10
+570,Patricia,Joubert,F,2023-05-01,Raynauddan,None,2024-02-11
+571,Francois,Normand,F,2010-09-02,Saint Raymond,Public,2024-01-13
+572,Odette,Klein,F,1944-10-03,Jacquot,Public,2022-05-05
+573,Oceane,Sanchez,M,1991-01-01,Dos Santos-les-Bains,Public,2022-02-18
+574,Adrien,Gros,F,2018-12-13,Gomez-sur-Caron,None,2025-12-31
+575,Isabelle,Petitjean,F,1957-03-07,Mauricedan,Public,2025-05-16
+576,Alexandrie,Couturier,F,2016-09-19,Salmon,Public,2023-02-18
+577,Thibault,Le Gall,F,2012-05-26,Besnard-sur-Marin,None,2025-06-13
+578,Alix,Couturier,M,1956-04-05,Bonnet-sur-Vincent,Private,2023-11-08
+579,Thibaut,Pasquier,F,1990-06-02,Faure,None,2025-11-22
+580,Martine,Bertin,F,2024-08-21,Camusnec,None,2024-08-30
+581,Josette,Perrot,F,1948-03-05,Cousinnec,None,2025-07-28
+582,Matthieu,Ollivier,F,1998-09-25,Sainte MargaretBourg,Public,2025-03-25
+583,Astrid,Gay,M,1994-04-15,MaceBourg,Private,2023-12-24
+584,Christelle,Bonneau,M,1959-02-08,Parent,None,2021-04-19
+585,Michelle,Buisson,F,1981-02-16,De Oliveira,None,2024-11-03
+586,Adrien,Delannoy,M,1972-07-23,Laroche,None,2022-02-12
+587,Richard,Mendes,M,1971-02-26,Sainte Laurent,None,2026-01-03
+588,Francois,Seguin,F,1998-08-04,Dupredan,None,2022-08-22
+589,Guy,Hernandez,F,1971-02-06,Saint Virginie,None,2023-04-01
+590,Diane,Laroche,F,1935-02-11,DiasBourg,Public,2023-02-13
+591,Luc,Charles,M,1946-12-08,Menarddan,Public,2023-10-19
+592,Louise,Joubert,M,1992-02-04,PaulBourg,Private,2025-07-28
+593,Suzanne,Laurent,F,2003-05-16,Pinto,Public,2023-04-20
+594,Anouk,Schneider,M,2017-05-14,Gaillard,Public,2022-04-04
+595,Pierre,Bonneau,M,1983-01-12,GrosBourg,Private,2021-09-05
+596,Alphonse,Gilbert,F,1993-10-27,Parent,Private,2022-08-12
+597,Laurence,Boyer,F,1997-05-03,Leconte-sur-Legendre,None,2022-12-25
+598,Thibaut,Monnier,M,1992-09-02,Charpentier-sur-Picard,Private,2025-11-27
+599,Marianne,Barre,M,1951-02-17,Peltierdan,Private,2021-10-22
+600,Veronique,Camus,F,1936-09-09,Lebrun,Private,2023-08-11
+601,Nicole,Gillet,M,2007-03-16,Leclerc-sur-Laporte,None,2022-10-08
+602,Francois,Thibault,F,1977-01-03,Charlesnec,Public,2022-05-23
+603,Theodore,Rolland,F,1997-01-15,Saint Veronique,Private,2024-08-12
+604,Etienne,Legrand,M,1990-10-19,Sainte Alice,Private,2023-02-26
+605,Andre,Thibault,M,1969-11-29,Didier,None,2024-03-01
+606,Christiane,Brunet,F,2002-06-06,Poulain-les-Bains,None,2021-05-22
+607,Victor,Prevost,F,1985-10-24,Parent-sur-Mer,Public,2023-12-03
+608,Maggie,Laroche,F,1937-12-22,Sainte Laetitia-sur-Mer,Private,2024-07-22
+609,Olivie,Roussel,M,1977-12-30,Vaillant,Public,2023-03-06
+610,Charles,Jean,F,1945-07-05,Sainte Emmanuel,Public,2022-12-08
+611,Theodore,Bouvet,M,1989-10-12,Masse-sur-Mer,None,2022-05-16
+612,Michele,Bazin,M,2016-10-09,Renault,Public,2022-06-20
+613,Maggie,Perrier,F,1984-05-09,LemonnierBourg,Public,2024-04-21
+614,Edith,Buisson,M,1945-05-21,Neveu,None,2023-05-29
+615,Louise,Bertrand,M,2007-08-07,Arnaud-les-Bains,Public,2022-07-23
+616,Laurent,Bonnin,M,1967-06-27,Sainte Lauredan,None,2025-08-10
+617,Alexandria,Huet,M,1981-09-13,Roussel-sur-Mer,Public,2024-06-23
+618,Denis,Vallee,F,1997-10-07,Vaillant,Public,2024-07-09
+619,Antoine,Mercier,M,1950-01-30,Sainte Vincent,Private,2022-08-13
+620,Anouk,Chretien,M,1973-07-11,Foucher,Public,2021-12-05
+621,Arthur,Chartier,F,1952-06-13,BertinBourg,Public,2025-07-05
+622,Odette,Fleury,M,2007-02-19,Bernier,None,2024-02-05
+623,Audrey,Brunel,M,2013-01-24,Adam,Public,2024-09-22
+624,Oceane,Alves,M,1995-10-20,Philippe,Private,2022-11-25
+625,Gabrielle,Sauvage,M,2003-01-16,Fontaine,None,2023-05-25
+626,Marianne,Marie,F,1960-09-25,BretonVille,Public,2021-07-02
+627,Anais,Moreno,M,1993-07-15,Blanchard,Private,2023-11-19
+628,Nicole,Olivier,M,1977-03-27,Parent,Public,2022-02-14
+629,Susanne,Fabre,F,1958-07-26,Sainte Isaac-les-Bains,None,2024-06-11
+630,Marine,Laporte,M,1948-11-23,Saint Paulboeuf,None,2022-10-07
+631,Juliette,Besnard,M,2009-06-12,Sainte Lucy,Private,2024-10-18
+632,Chantal,Mary,F,2015-01-02,MorenoVille,Private,2024-05-07
+633,Marcelle,Moreau,M,1979-10-23,PoirierBourg,Private,2023-04-01
+634,Penelope,Adam,M,1968-10-30,Sainte Margaud,None,2021-08-24
+635,Claire,Bonnin,M,1951-06-17,Boulay,None,2022-10-02
+636,Yves,Ledoux,F,1982-10-26,Dos Santos,Private,2024-01-09
+637,Daniel,Torres,M,1938-03-25,Boyer,Public,2024-12-28
+638,Gabriel,Blanchet,F,1990-01-28,Chretien,Private,2025-05-18
+639,Noel,Dufour,F,1994-06-23,Saint Michelle,None,2025-07-25
+640,Marie,Toussaint,M,1955-04-06,Muller-les-Bains,Private,2023-10-04
+641,Claude,Lemonnier,F,1952-09-02,Morin,Public,2025-09-21
+642,Emile,Buisson,M,2005-01-30,Ledouxnec,Private,2024-03-22
+643,Juliette,Fischer,M,2010-02-02,Royer-les-Bains,Public,2024-04-12
+644,Victoire,Da Costa,M,1982-04-24,Fernandez,Private,2024-08-08
+645,Amelie,Cohen,F,1940-05-31,Joubert,Private,2021-02-15
+646,Rene,Carlier,F,1955-01-13,Gosselin,Private,2022-09-10
+647,Martin,Gautier,F,1962-08-03,Laroche-les-Bains,Public,2024-09-23
+648,Noel,Marques,M,1941-07-21,Bertrand,None,2024-12-22
+649,Alain,Simon,M,1988-05-06,Paul,Private,2024-12-16
+650,Caroline,Fournier,F,2020-04-13,Sainte Susan,Public,2023-09-12
+651,Franck,Remy,F,1976-03-31,Julien-les-Bains,Private,2025-10-14
+652,Dominique,Fouquet,F,1945-12-18,Leblanc,Private,2022-12-21
+653,Philippe,Laporte,F,2022-05-16,Chauveau,None,2026-01-22
+654,Juliette,Toussaint,M,1976-11-13,Renard-sur-Boucher,Private,2025-04-24
+655,Anne,Barre,F,1951-04-12,Besson-sur-Mer,Private,2024-02-22
+656,Gabriel,Lejeune,F,2018-03-27,Saint LaurenceVille,Private,2023-02-05
+657,Helene,Gallet,M,1938-10-21,Cohen-les-Bains,None,2022-09-16
+658,Stephanie,Martinez,F,1986-06-15,Saint Eugene-les-Bains,Public,2025-09-15
+659,Josette,Martins,M,1951-08-27,Becker-la-Foret,Public,2023-02-28
+660,Thibault,Parent,M,1969-04-30,Laurent,Private,2024-08-22
+661,Alice,Herve,M,1975-09-18,AubertBourg,None,2023-12-03
+662,Sylvie,Ferreira,F,2024-04-05,SalmonVille,Public,2023-05-14
+663,Paul,Michel,M,1964-06-20,Leroux-la-Foret,None,2023-08-01
+664,Audrey,Pereira,F,1985-01-24,Dialloboeuf,None,2026-01-28
+665,Marcelle,Verdier,M,2002-01-17,Parent-la-Foret,Private,2021-02-06
+666,Chantal,Cohen,F,1985-09-08,Lenoir,None,2025-05-16
+667,Bertrand,Paris,F,1966-04-02,Leroux,None,2023-01-21
+668,Franck,Lacombe,M,2004-05-15,Saint Marianne-sur-Mer,Private,2024-04-28
+669,Marcel,Jean,F,1946-11-15,Perrier-les-Bains,Private,2025-12-18
+670,Claude,Humbert,M,1948-05-29,Riviere,None,2024-09-03
+671,Christophe,Evrard,M,1958-07-30,Faure,Public,2022-03-03
+672,Therese,Cohen,F,2022-06-19,Humbertdan,Public,2024-05-25
+673,Andree,Ruiz,M,1996-07-05,Fischernec,Private,2024-05-09
+674,Marine,Mace,F,1942-08-20,Sainte Lorrainenec,Public,2024-01-15
+675,Henri,Gay,F,2021-09-07,Giraud,None,2023-02-09
+676,Marguerite,Marchand,M,1998-05-07,Sainte Brigitteboeuf,Private,2022-06-09
+677,Tristan,Deschamps,M,1974-06-05,Diaz,None,2022-02-13
+678,Isabelle,Boulay,F,1985-09-08,Allain,Public,2022-03-18
+679,Constance,Bodin,M,1999-12-30,Hamonnec,Private,2024-04-07
+680,Bernard,Jacques,F,1953-07-25,BeckerBourg,Private,2022-06-26
+681,Timothee,Millet,F,1968-07-11,Sainte Capucinedan,Public,2025-11-02
+682,Alex,Vallee,M,2000-10-27,Dupuis,Public,2023-04-10
+683,Xavier,Vasseur,F,1935-12-12,Saint Lucie,Public,2023-05-07
+684,Sophie,Hamon,M,1978-01-10,Gautier,None,2023-06-08
+685,Nathalie,Gonzalez,M,2010-08-29,Gerardboeuf,Public,2022-04-03
+686,Denis,Begue,M,1975-08-06,Fernandeznec,Private,2023-11-14
+687,Bernard,Legros,F,1939-08-15,Dias,Private,2023-01-10
+688,Charlotte,Mary,F,1986-01-17,Sainte Aurore,Public,2024-06-25
+689,Sabine,Herve,F,1997-04-07,Sainte Auguste,Private,2024-05-09
+690,Bertrand,Joseph,F,2021-05-04,Fernandeznec,None,2021-08-29
+691,Emilie,Devaux,M,1937-09-15,Saint Renee,Public,2022-03-17
+692,Marianne,Dupont,M,1939-02-16,Brunet,Public,2022-08-19
+693,Gregoire,Philippe,M,1940-05-09,Maurice,None,2024-08-30
+694,Sylvie,Maurice,M,1979-04-15,Sainte CorinneVille,Private,2026-01-02
+695,Josette,Breton,F,2010-08-29,Pruvost,None,2025-06-18
+696,Josephine,Hernandez,F,1956-08-10,Schneider,Private,2025-03-28
+697,Remy,Laporte,F,1947-08-25,David,Private,2021-12-02
+698,Suzanne,Martin,F,1944-10-06,Descamps,Public,2023-10-07
+699,Guillaume,Munoz,M,1974-05-26,Leroux-les-Bains,Private,2021-06-06
+700,Arthur,Da Costa,F,1947-05-22,Carlier-sur-Brunet,Public,2022-08-14
+701,Corinne,Fischer,F,1991-03-26,Sainte Astrid,None,2021-03-28
+702,Margaux,Pereira,F,1972-08-04,NoelBourg,None,2022-06-25
+703,Edith,Legros,F,1958-07-11,Reyboeuf,Public,2025-11-24
+704,Lorraine,Thomas,M,1951-08-04,Sainte Eugene-les-Bains,Private,2025-01-30
+705,Astrid,Renaud,M,1951-06-20,GomezBourg,Public,2023-12-10
+706,Charlotte,Collet,M,1943-12-13,Bigot-la-Foret,Private,2022-07-29
+707,Monique,Bonnet,M,1982-09-25,Benard,Public,2025-02-21
+708,Alfred,Weber,F,1956-06-06,Hebertdan,Private,2022-02-22
+709,Remy,Lamy,F,1992-01-20,Fontaine,Public,2021-11-05
+710,Margaux,Girard,M,1950-09-02,Saint Victor,Private,2023-01-15
+711,Isaac,Menard,F,2002-12-28,Hamonnec,Public,2022-06-24
+712,Astrid,Bailly,M,1974-04-24,Sainte Charlotte,Private,2024-09-25
+713,Maurice,Mendes,M,1968-03-03,Muller,None,2021-12-19
+714,Sabine,Imbert,F,1997-09-28,Delorme-sur-Mer,Public,2022-01-20
+715,Theophile,Boulanger,F,1981-06-01,Cordier,None,2025-12-12
+716,Valerie,Renault,M,2006-02-05,Rodriguez,Private,2024-04-26
+717,Alain,Paul,M,1993-10-06,Morin-les-Bains,Private,2021-06-25
+718,Jules,Charpentier,M,1943-02-27,Munoz,Private,2023-06-06
+719,Anastasie,Henry,F,2003-10-16,Alves-sur-Didier,None,2022-06-06
+720,Aurelie,Adam,F,1936-03-01,Sainte Alfredboeuf,None,2021-10-15
+721,Emmanuelle,Legendre,F,1947-10-10,Sainte Jeannec,Private,2023-10-11
+722,Christine,Jacques,M,1956-05-01,Voisin,Private,2023-04-26
+723,Guillaume,Lambert,M,1964-07-29,Berger,Private,2021-02-08
+724,Alain,Joly,M,1973-09-09,Perrin-sur-Mer,None,2025-03-27
+725,Laure,Pineau,F,1978-09-17,Bessonnec,None,2022-11-16
+726,Gilbert,Mercier,F,1971-03-30,Gosselin-sur-Hoareau,Public,2024-12-20
+727,Margaux,Becker,F,1962-08-04,Martinez-sur-Mer,Public,2021-03-27
+728,Hugues,Fouquet,M,2022-09-27,Laineboeuf,Private,2025-01-21
+729,Monique,Delmas,F,1983-09-03,Lejeune,None,2022-03-27
+730,Julie,Maillet,M,2003-11-07,Teixeiradan,Private,2025-12-31
+731,Christiane,Mace,F,1951-05-18,Gallet,None,2025-05-17
+732,Yves,Traore,F,1989-07-22,Masson-la-Foret,Public,2025-05-03
+733,Jacques,Gerard,F,2020-01-16,Saint Christophenec,Public,2025-02-18
+734,Rene,Giraud,M,2010-10-30,Andredan,None,2024-02-11
+735,Bernard,Perret,M,2018-04-04,Deschamps-la-Foret,None,2024-03-20
+736,Olivie,Clement,M,1965-07-05,Lucas,Private,2025-07-17
+737,Jacques,Deschamps,F,1996-11-24,Rolland,None,2021-05-10
+738,Vincent,Hamon,M,1969-05-28,Valentin,Public,2022-08-29
+739,Antoinette,Guillou,M,2003-02-24,Maillet,Public,2022-12-04
+740,Frederic,Duval,F,1977-02-10,Le Gall,Public,2025-03-29
+741,Agnes,Lopez,M,1945-01-12,Pruvost-sur-Mer,None,2024-05-11
+742,Camille,Aubry,M,2017-10-18,Fourniernec,None,2025-08-20
+743,Adrien,Bazin,M,2015-01-10,Remy,Public,2022-09-13
+744,Christelle,Didier,F,1956-12-04,Rodriguez-sur-Blin,Private,2025-04-01
+745,Monique,Leleu,F,2017-03-10,Pires,None,2025-07-03
+746,Sophie,Boyer,F,2007-09-14,Valentin,None,2022-04-30
+747,Emmanuelle,Mace,F,1988-02-14,Sainte Philippe,Public,2021-10-03
+748,Patricia,Colin,F,1994-10-23,Gilletnec,Public,2021-11-26
+749,Adrien,Morin,F,2008-03-19,Saint Chantal,Private,2024-12-25
+750,Edith,Leduc,F,2005-02-06,Guilbert,Private,2024-04-19
+751,Luce,Sanchez,M,1952-08-13,Blanchet,Private,2021-02-16
+752,Edouard,Lamy,M,2020-02-29,Traore,Private,2024-07-29
+753,Therese,Garcia,F,1956-09-23,GautierBourg,Private,2022-05-09
+754,Anais,Durand,M,2002-10-21,Delorme,Public,2024-07-20
+755,Anne,Lecomte,F,1993-02-07,Saint Xavier,Private,2024-11-29
+756,Daniel,Moulin,M,1942-03-09,Ledoux,None,2025-10-22
+757,Suzanne,Rousset,M,1982-05-19,Sainte Arnaude-sur-Mer,None,2021-06-08
+758,Emilie,Robin,F,1961-01-17,Pichon,Private,2024-03-02
+759,Luc,Francois,M,1978-01-26,Carrenec,Private,2022-09-20
+760,Noemi,De Sousa,M,1969-12-23,GuilletVille,Private,2024-12-25
+761,Mathilde,Blondel,F,2024-10-02,Caron-sur-Carre,None,2021-09-13
+762,Christophe,Henry,M,1953-03-22,Blot,Public,2023-09-27
+763,Vincent,Gros,F,2020-07-26,Jacques,Public,2024-06-06
+764,Benjamin,Bernard,F,1975-07-26,MonnierVille,None,2021-11-24
+765,Theophile,Lefort,M,1947-04-22,Saint Daniel,None,2024-12-03
+766,Remy,Gillet,M,1967-02-07,Saint Genevieveboeuf,Public,2024-05-18
+767,Mathilde,Leclerc,M,2013-02-04,Rousset-sur-Mer,None,2024-05-29
+768,Jules,Delmas,F,1991-06-17,Moulin,Private,2021-11-23
+769,Timothee,Guerin,M,1945-03-03,Gaudin,Private,2023-10-07
+770,Jeanne,Ledoux,F,1949-12-20,TraoreVille,Private,2021-12-25
+771,Adele,Fouquet,F,1944-07-18,Rey,Private,2023-09-08
+772,Victor,Chauveau,F,2024-12-01,Blot,None,2022-04-08
+773,Margaux,Gilbert,M,2015-05-31,Sainte Celine,None,2024-04-04
+774,Jerome,Deschamps,F,2005-08-14,Langloisnec,Public,2025-03-31
+775,Valerie,Rolland,F,1972-11-09,Faure,Public,2026-01-26
+776,Therese,Leduc,F,2014-04-11,Allard-sur-Guyot,Private,2025-05-13
+777,Adrien,Bonnin,F,1958-09-09,Saint Adelaide,None,2024-07-03
+778,Yves,Hernandez,M,1996-03-23,Mendes,Private,2025-01-12
+779,Honore,Loiseau,M,1962-03-24,Teixeira-sur-Lacombe,None,2022-12-16
+780,Lucas,Besson,M,1941-04-09,Sainte Caroline,Private,2025-12-30
+781,Edith,Bernier,F,1984-01-16,Chevallierboeuf,None,2022-11-27
+782,Xavier,Guillon,F,1937-09-25,Gregoire,Public,2024-09-09
+783,William,Bertin,M,2016-05-17,Meyer,Private,2023-05-17
+784,David,De Oliveira,F,1957-01-18,Sainte Pauldan,None,2023-08-19
+785,Christelle,Moreno,F,1982-09-01,Vaillant,Public,2023-06-06
+786,Gilles,Grenier,M,1980-08-07,Renault-sur-Raymond,None,2023-11-14
+787,Odette,Fabre,F,1950-12-19,Leger,None,2021-02-09
+788,Laurent,Giraud,F,1943-05-30,Laurent,Public,2021-03-29
+789,Victoire,Andre,F,1986-06-22,Gaudin-la-Foret,Private,2023-12-09
+790,Arthur,Aubert,M,1959-01-16,Da Silva,Public,2022-06-08
+791,Veronique,Brun,F,1967-12-09,Valentin,Private,2024-07-13
+792,Margaud,Boyer,M,1967-06-23,Leroux,Public,2021-02-03
+793,Alice,Jacob,M,2004-06-22,Saint YvesBourg,Public,2025-09-01
+794,Marie,Lebreton,M,1935-04-24,Saint Camille,Private,2021-10-11
+795,Alphonse,Guerin,M,1983-11-02,Dos SantosVille,None,2023-11-29
+796,Paul,Barre,M,1944-08-13,Tanguy,None,2022-11-07
+797,Margot,Petit,F,1941-05-24,Germainnec,None,2023-02-12
+798,Frederic,Giraud,M,1970-03-03,DupontBourg,None,2021-03-24
+799,Michel,Vallet,F,2012-07-18,Roy,Public,2023-12-17
+800,Isabelle,Parent,M,1971-02-08,Poirier-sur-Mer,Public,2023-09-23
+801,Leon,Martineau,M,2011-07-12,MonnierVille,None,2021-07-28
+802,Laurent,Barthelemy,F,2015-12-14,ColasVille,Public,2023-02-09
+803,Arthur,Blin,F,1979-08-12,Peron,Private,2025-03-11
+804,Raymond,Bernard,M,1988-05-20,Vidal-sur-Raynaud,Private,2021-05-07
+805,Alexandrie,Navarro,F,1963-09-05,Baron,None,2021-07-17
+806,Denis,Blin,F,1947-07-05,Riviere,Public,2024-05-15
+807,Elodie,Gay,M,2006-06-03,FontaineVille,Private,2022-07-18
+808,Alice,Hoarau,F,1941-12-31,Sainte Rene-la-Foret,Public,2024-10-13
+809,Madeleine,Menard,F,2007-06-07,Lambert,None,2025-04-04
+810,Alexandria,Traore,F,1953-09-11,Collet-sur-Mer,Private,2022-08-22
+811,Marcelle,Pottier,F,1976-04-18,Fourniernec,Private,2021-04-02
+812,Laetitia,Lelievre,F,1964-01-11,Humbert,Public,2024-03-28
+813,Benoit,Launay,M,1983-03-13,BarbierVille,None,2022-09-06
+814,Hugues,Mahe,M,1995-07-08,Nicolasnec,Private,2025-10-21
+815,Antoine,Normand,M,1962-07-22,Bousquet,None,2023-08-03
+816,Franck,Perret,F,1944-02-04,Vasseurboeuf,Private,2024-06-06
+817,Benoit,Lambert,M,2016-04-09,Munoz-sur-Mer,None,2023-02-21
+818,Thibault,Lucas,M,1942-09-05,Bigot,Private,2022-03-03
+819,Marcelle,Lamy,M,1947-02-26,Perezdan,Public,2024-11-15
+820,Luce,Remy,F,1979-07-03,Sainte Gerard,Private,2023-06-14
+821,Jeannine,Huet,M,1955-11-05,Perrot,Private,2023-11-13
+822,Sophie,Gosselin,M,1935-07-11,Hoareau-sur-Mer,Public,2023-07-30
+823,Zacharie,Bouvet,F,1979-03-11,Antoine,Private,2021-06-15
+824,Gerard,Riou,M,1947-06-22,Berthelotdan,Private,2025-10-08
+825,Jean,Sanchez,M,1969-04-02,Sainte Helene-les-Bains,Private,2024-08-03
+826,Alain,Peron,F,1949-06-11,Thierry-sur-Carlier,Public,2024-06-10
+827,Thibaut,Lefebvre,F,2004-11-19,Leblancboeuf,Public,2022-05-31
+828,Marcelle,Gallet,F,1958-04-20,Guillondan,Public,2025-10-18
+829,Louis,Delattre,M,2010-09-09,Saint Valerie-sur-Mer,Private,2025-01-07
+830,Denis,Vidal,M,1952-05-08,Henry,None,2025-11-14
+831,Maryse,Marty,F,1979-06-01,Aubert-sur-Mer,Public,2023-07-02
+832,Sabine,Adam,M,1958-12-14,Texier-sur-Mer,Public,2023-09-27
+833,Bertrand,Voisin,F,2017-07-30,Dupuy,Private,2021-10-28
+834,Elise,Mendes,M,2024-04-10,Sainte Christelle-la-Foret,None,2022-10-13
+835,Laure,Bertrand,F,2018-10-10,Benard,Private,2022-12-28
+836,Gilbert,Riviere,M,1951-08-13,Couturier-les-Bains,Public,2024-02-03
+837,Margaud,Prevost,M,1939-03-26,Sainte Philippine-sur-Mer,Private,2021-02-21
+838,Margaux,Clerc,M,2016-01-15,Saint Thierry,Public,2025-07-29
+839,Nicolas,Jourdan,F,1960-10-13,Sainte Marcel,Public,2025-05-24
+840,Laetitia,Bertrand,F,1940-01-29,Faure,Public,2025-09-13
+841,Hortense,Michel,F,1990-06-25,BaillyVille,Public,2022-04-01
+842,Julie,Gilbert,M,1969-11-18,Delmas-les-Bains,Public,2021-09-13
+843,Ines,Da Costa,F,1947-05-05,Lecomte,None,2024-02-21
+844,Edouard,Peron,F,2003-04-21,Sainte Yves,Public,2022-06-23
+845,Chantal,Mendes,M,1995-04-08,Dupont,Private,2023-12-25
+846,Thierry,Lefebvre,M,1981-06-23,Roger-la-Foret,None,2021-10-12
+847,Emmanuelle,Laine,M,2019-01-24,Denis,None,2024-01-18
+848,Gilles,Michel,M,2013-01-09,Evrard,Private,2022-12-25
+849,Honore,Lopes,F,1999-01-27,Sainte Daniellenec,Public,2022-11-09
+850,Nicolas,Aubert,F,1993-10-21,Moreau-sur-Valentin,Public,2022-04-22
+851,Roland,Dupuy,F,1957-05-03,Saint Adelaide,Public,2021-05-05
+852,Eric,Gosselin,M,2024-01-08,Fouquet,None,2021-09-27
+853,Antoinette,Martel,F,1969-08-09,Saint Penelope,Public,2023-06-18
+854,Olivie,Thierry,M,1984-01-22,Blot-sur-Mer,Private,2021-04-19
+855,Corinne,Peltier,F,1959-03-08,Lefebvre,Public,2024-09-28
+856,Eleonore,Renard,F,1962-10-01,Deschamps-sur-Francois,Private,2024-07-14
+857,Edith,Dijoux,F,1953-01-27,Marin,None,2025-11-04
+858,Rene,Laurent,M,1937-11-23,Sainte Virginie,Private,2021-03-21
+859,Josephine,Gregoire,M,2009-12-14,Berthelot,Private,2021-03-21
+860,Clemence,Besnard,M,2022-11-16,Roux,None,2022-01-16
+861,Jean,Poirier,M,1941-03-19,Benoit,None,2023-09-27
+862,Francoise,Cordier,F,1991-07-07,Saint Charlotte-sur-Mer,Public,2021-04-05
+863,Julien,Marie,M,1984-08-09,Leroy,Private,2022-07-06
+864,Tristan,Lelievre,F,1959-08-31,Riou,None,2022-10-16
+865,Josephine,Chauvet,M,1984-12-27,Roussel,None,2022-05-27
+866,Guillaume,Maurice,F,1957-05-11,Nguyendan,None,2024-06-11
+867,Alexandrie,Caron,F,1971-07-29,VasseurVille,None,2023-04-29
+868,Colette,Robin,M,1999-09-26,Godard-les-Bains,Public,2024-06-24
+869,Christiane,Hoarau,M,2005-12-01,Nguyen,None,2022-10-30
+870,Margaux,De Sousa,F,1970-05-28,Saint Juliette,Public,2023-09-28
+871,Adrienne,Dumas,F,1992-02-07,Marie-la-Foret,Public,2023-09-29
+872,Henriette,Remy,M,1989-09-19,GeorgesVille,Public,2023-08-12
+873,Isaac,Bodin,M,1967-11-11,Fournierdan,Private,2024-06-22
+874,Constance,Perrot,F,1965-04-20,Leleu,None,2021-02-03
+875,Amelie,Bodin,F,1966-01-04,Andreboeuf,None,2024-09-02
+876,Patricia,Bouvet,F,1978-06-28,DescampsVille,Private,2023-07-08
+877,Simone,Valentin,M,1986-04-05,Saint Monique,None,2022-10-14
+878,Benoit,Laurent,M,1977-11-11,Goncalvesnec,Private,2025-05-18
+879,Nicole,Bourdon,F,1941-04-17,Gregoire-la-Foret,Public,2025-12-11
+880,Odette,Bertin,F,2019-08-13,Gaillard,Private,2024-12-28
+881,Virginie,Hoarau,M,1937-07-04,MartinVille,Private,2023-10-11
+882,Roger,Pierre,F,1954-03-21,Saint Adrien-les-Bains,Private,2022-11-30
+883,Vincent,Fleury,F,2002-06-18,Dupuy,Private,2023-06-23
+884,Christine,Delannoy,F,1965-04-13,Wagner,Public,2024-05-25
+885,Suzanne,Millet,F,1999-10-22,Boulanger-sur-Bonneau,None,2023-06-03
+886,Guy,Roussel,F,2015-05-28,Saint Daniel,Private,2024-10-18
+887,Thierry,Texier,F,1979-04-28,Sainte Antoinettedan,Public,2022-01-16
+888,Benoit,Poulain,F,1966-08-13,Pintodan,Public,2024-04-29
+889,Jeanne,Joubert,F,2014-04-28,Saint RogerBourg,None,2023-08-29
+890,Marthe,Dupont,M,1979-09-26,Pineau-sur-Pineau,None,2023-10-18
+891,Margot,Ribeiro,F,1970-02-25,Louisnec,Private,2026-01-18
+892,Nicolas,Boutin,M,1959-11-11,Dos Santos-sur-Mer,Public,2022-05-15
+893,Patricia,Charles,F,1942-10-20,Fernandes,None,2023-11-04
+894,Adrienne,Cousin,F,2024-05-21,Mary,Private,2025-07-04
+895,Suzanne,Delmas,F,1982-06-08,Boutin,None,2022-09-30
+896,Laurent,Brunet,F,1978-10-11,Barbiernec,Public,2024-01-30
+897,Marianne,Rey,F,2019-05-01,Perrot,Private,2025-07-10
+898,Clemence,Georges,F,1946-07-02,Carre,Public,2025-05-26
+899,Maryse,Riou,F,1961-01-12,Martin,None,2023-08-05
+900,Penelope,Barre,F,1968-07-14,BrunetBourg,Private,2024-03-30
+901,Remy,Descamps,M,1988-03-04,Chauvinboeuf,Public,2022-09-23
+902,Marcel,Boyer,F,1954-04-28,LefevreVille,Private,2025-11-16
+903,Roger,Voisin,M,1974-06-30,Bailly-sur-Renard,Public,2025-02-04
+904,Margaret,Fleury,M,1956-10-28,Tanguy,None,2024-06-01
+905,Raymond,Meyer,F,1952-09-15,Guyon,Public,2024-06-12
+906,Isaac,Maurice,M,1974-02-17,Bertin,Public,2023-09-24
+907,Pauline,Merle,M,1967-09-30,Garnier,None,2021-11-07
+908,Jeanne,Hoarau,F,1969-04-04,AubryBourg,Private,2024-11-05
+909,Anais,Georges,F,1963-02-12,Lebreton-sur-Maurice,None,2025-04-19
+910,Alix,Renaud,M,1955-07-24,Cohen,None,2026-01-30
+911,Nathalie,Lefort,M,1965-03-29,Philippedan,None,2025-06-20
+912,Adrienne,Ferreira,F,1984-11-11,Sainte Audrey,Private,2023-05-24
+913,Henriette,Vaillant,F,2015-10-03,Saint Stephane,Private,2023-06-22
+914,Louis,Huet,M,2016-03-09,RuizVille,None,2023-03-25
+915,Emmanuel,Benoit,M,2020-08-28,Sainte Catherine,None,2021-02-21
+916,Paul,Dubois,F,1994-04-02,Thierrydan,Private,2023-01-04
+917,Michelle,Guillaume,F,1940-10-28,Ribeiro,None,2021-12-25
+918,Lucie,Benoit,F,2012-03-30,Sainte Emmanuel,Public,2025-05-27
+919,Charlotte,Marchal,M,1953-11-11,Dumas-sur-Bernier,Public,2025-04-04
+920,Marcel,Chartier,M,2016-07-12,Sainte Gabrielle,Private,2025-02-17
+921,Oceane,Mahe,F,2002-03-19,Sainte Reneenec,None,2025-09-29
+922,Valentine,Bernard,M,1945-09-22,Leroy-sur-Buisson,Private,2022-07-08
+923,Jacques,Grondin,F,1956-08-30,Imbertboeuf,None,2024-01-06
+924,Margot,Arnaud,F,1988-08-04,Gauthierdan,Public,2025-11-14
+925,Thibault,Rousseau,F,1962-11-18,Laine,None,2023-02-07
+926,Martin,Boucher,F,1986-06-20,Monnier,Public,2022-10-26
+927,Michele,Fouquet,M,1971-02-11,Boulay-les-Bains,Public,2021-06-05
+928,Daniel,Klein,M,2001-11-22,Lejeune-sur-Brun,Private,2023-09-24
+929,Rene,Guichard,M,1948-04-20,MerleVille,None,2023-06-18
+930,Adele,Tanguy,F,1945-06-24,Vaillant-sur-Durand,Public,2024-10-02
+931,Susanne,Louis,F,1980-09-08,Sainte Alphonse,None,2024-05-23
+932,Edith,Costa,F,1987-01-26,Marin,None,2022-04-07
+933,Stephanie,Girard,M,1975-05-20,Pottier,None,2024-04-14
+934,Maggie,Renaud,F,1992-10-30,Seguin,Private,2023-07-15
+935,Michelle,Chauveau,M,1989-10-02,Michel,None,2026-01-27
+936,Gilles,Pineau,M,2005-10-26,Legros,Private,2024-04-26
+937,Therese,Fournier,M,1974-11-29,Sainte CatherineVille,Public,2025-11-17
+938,Zacharie,Benard,M,1959-06-01,Regnier-sur-Charpentier,Public,2025-05-20
+939,Corinne,Lefort,M,1952-04-04,Rossi,Private,2025-07-11
+940,Victor,Seguin,M,1978-10-12,Breton,Private,2024-04-29
+941,Richard,Collet,F,1993-07-25,Julien-les-Bains,Private,2021-08-05
+942,Marcel,Jacques,M,1939-10-08,Huet-sur-Mer,None,2021-12-31
+943,Dorothee,Mary,M,1937-12-19,Ledoux,Public,2021-11-05
+944,Nathalie,Vasseur,F,2005-01-20,Texier-sur-Mer,Private,2023-06-14
+945,Anastasie,Lemaire,F,1990-01-01,Lemoine,None,2023-12-13
+946,Bertrand,Bigot,F,1983-06-01,Costa-sur-Mer,Private,2025-04-02
+947,Michele,Diallo,M,2008-04-28,MerleVille,Public,2021-12-26
+948,Raymond,Leclercq,F,2019-09-07,Saint Marine,None,2024-10-27
+949,Sabine,Legros,M,1947-02-19,LenoirBourg,Private,2021-03-23
+950,Etienne,Gilles,F,1998-11-16,Ollivier,None,2023-02-15
+951,Clemence,Bouvet,F,1965-01-29,Faurenec,Public,2025-02-15
+952,Gabrielle,Pages,M,1950-05-02,Hubert,Public,2024-04-18
+953,Thibault,Carre,F,1942-11-05,BonnetBourg,None,2021-12-09
+954,William,Baron,M,1938-03-17,Berger,Public,2021-07-08
+955,Monique,Gosselin,M,1983-02-27,Leroux-sur-Dupre,Private,2021-03-05
+956,Edith,Dupre,M,1954-12-18,Sainte Anastasie,Public,2024-03-20
+957,Audrey,Ribeiro,F,1959-06-08,Saint Michellenec,None,2025-12-03
+958,Paul,Ledoux,M,1999-09-02,MoulinVille,Private,2024-06-01
+959,Margaud,Perez,F,1996-04-09,Gerard,Public,2024-11-16
+960,Victoire,Bazin,F,2004-09-19,Loiseau,Public,2023-12-20
+961,Danielle,Vallet,F,1950-06-23,Lebrun-sur-Vallet,Public,2024-11-22
+962,Eric,Guyon,F,1944-09-02,Sainte Margaud-sur-Mer,None,2023-12-19
+963,Thierry,Navarro,M,1963-02-02,Saint Oceane,None,2023-04-17
+964,Hortense,Letellier,M,1996-05-24,Lefebvre-la-Foret,None,2025-09-17
+965,Emilie,Gautier,M,1997-01-19,Maury-les-Bains,Public,2023-09-08
+966,Pauline,Leclercq,F,1996-06-13,Diallo,None,2021-07-07
+967,Olivier,Clement,M,1974-01-31,Jacques-sur-Mer,Public,2022-10-06
+968,Philippine,Berthelot,M,2000-01-07,Barbe-sur-Huet,Public,2024-12-30
+969,Matthieu,Martineau,F,1969-11-06,Pires,None,2021-10-02
+970,Jerome,Guillou,M,1954-03-09,Mallet-la-Foret,None,2023-08-09
+971,Juliette,Lefebvre,F,1960-02-13,Leclercq,None,2024-04-04
+972,Aime,De Sousa,M,1968-11-27,Moreau-la-Foret,Private,2021-05-05
+973,Christiane,Simon,F,2006-06-08,Lebon,None,2022-06-23
+974,Eric,Chretien,F,2003-02-12,Sainte Eleonore-la-Foret,Private,2025-12-30
+975,Alix,Clement,M,1958-11-12,Berger,None,2026-01-25
+976,Maryse,Ollivier,F,1961-08-19,Meyer-la-Foret,Private,2021-04-22
+977,Antoinette,Jacquet,F,2021-08-18,Maillotboeuf,Public,2021-08-22
+978,Marc,Foucher,M,1992-11-25,Saint Stephanie,Public,2025-06-16
+979,Gregoire,Pons,F,1958-04-15,Grenier-sur-Mer,Private,2022-04-28
+980,Thibault,Samson,F,1966-03-08,Paul,Private,2022-02-04
+981,Zoe,Paris,M,1998-05-13,Saint NathalieVille,Private,2023-02-06
+982,Joseph,Costa,M,1963-06-28,MarieVille,Private,2024-01-31
+983,Dominique,Guillot,F,1936-12-21,Fernandez-la-Foret,None,2023-08-13
+984,Veronique,Morin,F,1982-09-21,Guerin-sur-Mer,Private,2022-01-06
+985,Camille,Michaud,M,1955-07-03,Rey-la-Foret,Private,2024-11-24
+986,Danielle,Wagner,M,1961-03-17,Sainte Sebastiennec,Private,2023-11-30
+987,Alexandre,Legendre,M,1935-07-17,Guillaume-sur-Duval,Private,2023-05-13
+988,Sabine,Ledoux,M,2011-09-16,Masson-la-Foret,Private,2024-12-27
+989,Corinne,Benoit,F,1948-04-13,Pinto,Public,2022-02-28
+990,Lucy,Joly,M,1964-10-02,Saint Aurelie,Public,2024-11-30
+991,Caroline,Leleu,M,2007-09-08,Dupuy,Private,2026-01-03
+992,Benoit,Lacroix,F,1947-11-25,Couturier,None,2022-12-09
+993,Philippine,Tessier,F,1975-08-23,Berniernec,Public,2023-05-25
+994,Georges,Michel,M,1971-06-27,Moreno,Private,2022-06-30
+995,Suzanne,Besson,F,2017-06-17,Kleinboeuf,Public,2023-06-21
+996,Vincent,Brunet,M,1959-03-04,Sainte Ericdan,Private,2026-02-01
+997,Elodie,Poulain,F,1943-04-15,Berger-sur-Chauvet,Private,2021-05-07
+998,Lucas,Clement,F,1983-08-05,Marie-sur-Mer,Private,2024-08-31
+999,Antoinette,Lebon,M,1980-11-22,Moulin-sur-Thomas,Public,2021-05-02
+1000,Jeannine,Legendre,F,2022-11-10,RousseauBourg,None,2023-05-16
